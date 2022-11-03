@@ -3,7 +3,8 @@
     {
       "id": 1,
       "title": "Post 1",
-      "description": "this is description 1"
+      "description": "this is description 1",
+      "PDE": "ΠΕΡΙΦΕΡΕΙΑΚΗ Δ/ΝΣΗ Α/ΘΜΙΑΣ ΚΑΙ Β/ΘΜΙΑΣ ΕΚΠ/ΣΗΣ ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ"
     },
     {
       "id": 2,
